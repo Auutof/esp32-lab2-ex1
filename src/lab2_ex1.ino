@@ -19,7 +19,7 @@ const char* readURL = "http://api.thingspeak.com/channels/3109942/feeds.json?res
 void setup() {
   Serial.begin(115200);
   
-  Serial.println("Asadullo, Lab 2");
+  Serial.println("Tursunov Jaloliddin, Lab 2");
 
   // Set LED pins as outputs
   pinMode(RED_LED, OUTPUT);
